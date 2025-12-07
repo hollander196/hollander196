@@ -57,8 +57,8 @@ Statistics    ███████████████████░░  9
 
 **Development Stack**
 - **Python**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn
-- **MATLAB**: Signal Processing Toolbox, Deep Learning Toolbox, Statistics Toolbox, Optimization Toolbox
-- **Tools**: Jupyter, Git, Docker, Linux, HPC Clusters
+- **MATLAB**: Statistical and Machine Learning Toolbox, Deep Learning Toolbox, Optimization Toolbox
+- **Tools**: Jupyter Notebook, MATLAB Livescript, Git, Docker, Linux, HPC Clusters
 - **Databases**: SQL, MongoDB
 - **Cloud**: AWS, Google Cloud Platform
 
@@ -71,7 +71,7 @@ Statistics    ███████████████████░░  9
 <td width="50%">
 
 ### 🤖 Machine Learning Applications
-- Predictive maintenance systems
+- Predictive engineering models
 - Anomaly detection in industrial processes
 - Pattern recognition in complex datasets
 - Automated feature engineering
@@ -81,11 +81,11 @@ Statistics    ███████████████████░░  9
 <td width="50%">
 
 ### 🏭 Engineering Solutions
-- Smart manufacturing systems
-- Energy systems optimization
-- Structural health monitoring
-- Process control automation
-- Sensor fusion and IoT analytics
+- Mathematical modelling and optimisation of membrane systems
+- Numerical simulationa and optimisation of stirred tank mixing process
+- Community health monitoring using wastewater-based epidemiology
+- Sensor fusion and IoT analytics in process control systems
+- Automation and optimisation of process control systems
 
 </td>
 </tr>
