@@ -189,5 +189,3 @@ Example project structure - uncomment and customize when ready:
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🚀**
 
 </div>
- 
-```
