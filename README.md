@@ -33,7 +33,7 @@ Python    ████████████████████░  95%
 MATLAB    ███████████████████░░  90%
 Deep Learning ██████████████████░░░  85%
 Data Science  ████████████████████░  95%
-Statistics    ███████████████████░░  90%
+Numerical Simulation    ███████████████████░░  95%
 ```
 
 ### Core Competencies
