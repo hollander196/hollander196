@@ -111,7 +111,7 @@ Statistics    ███████████████████░░  9
 
 ### 🔥 Highlighted Work
 
-> **Note**: Many research projects are in private repositories or under review for publication. Feel free to reach out for collaborations or inquiries about specific work.
+> **Note**: My research projects are in private repositories or under review for publication. Feel free to reach out for collaborations or inquiries about specific work.
 
 <!-- 
 Example project structure - uncomment and customize when ready:
@@ -141,53 +141,23 @@ Example project structure - uncomment and customize when ready:
 
 ## 🎯 Current Focus
 
-```python
-class CurrentResearch:
-    def __init__(self):
-        self.working_on = [
-            "Advanced deep learning architectures for engineering applications",
-            "Real-time predictive analytics systems",
-            "Hybrid ML models combining physics-based and data-driven approaches"
-        ]
-        
-        self.learning = [
-            "Transformer architectures for time-series",
-            "Federated learning for distributed systems",
-            "AutoML and neural architecture search"
-        ]
-        
-        self.collaborating_on = [
-            "Industrial AI applications",
-            "Academic research in ML for engineering",
-            "Open-source ML tools and frameworks"
-        ]
-```
+- 📄 Mathematical modelling and optimisation of fouling problems in membrane bioreactor
+- 🎓 Hybrid ML models combining physics-based and data-driven approaches
+- 🏆 Academic research in ML for engineering applications
+- 👥 Open-source ML tools and frameworks in engineering applications
 
----
+ ## 🎯 I'm always interested in:
 
-## 🤝 Let's Connect & Collaborate
+- 📄 **Research Collaboration**: Interdisciplinary projects combining ML/AI with engineering  simulations
+- 🎓 **Consulting**: Applying ML/AI and numerical simulations to solve practical engineering problems
+- 👨‍🏫 **Mentoring**: Guiding students and early researchers in ML/AI and engineering simulations
+- 🏆 **Knowledge Sharing**: Discussions on latest trends in ML/AI and engineering applications
 
-I'm always interested in:
-- 🔬 **Research Collaborations**: Interdisciplinary projects combining ML/AI with engineering
-- 💡 **Consulting**: Applying ML/AI to solve practical engineering problems
-- 👨‍🏫 **Mentoring**: Guiding students and early researchers in ML/AI
-- 💬 **Knowledge Sharing**: Discussions on latest trends in ML/AI and engineering applications
-
-### 📫 How to Reach Me
-
-<!-- TODO: Update the contact links below with your actual profile URLs -->
-
-<div align="center">
-
+## 📫 How to Reach Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.hollander196@yahoo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hollander196)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=2ELWvsAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/yourprofile)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yourid)
-
-</div>
-
----
 
 ## 💭 Research Philosophy
 
@@ -201,12 +171,12 @@ I'm always interested in:
 
 | Domain | Technologies | Experience Level |
 |--------|-------------|------------------|
-| **Machine Learning** | Scikit-learn, XGBoost, LightGBM | ⭐⭐⭐⭐⭐ |
+| **Machine Learning** | Scikit-learn, SUMO Toolbox, XGBoost, LightGBM | ⭐⭐⭐⭐⭐ |
 | **Deep Learning** | TensorFlow, PyTorch, Keras | ⭐⭐⭐⭐⭐ |
 | **Data Analysis** | Pandas, NumPy, SciPy | ⭐⭐⭐⭐⭐ |
 | **Visualization** | Matplotlib, Seaborn, Plotly | ⭐⭐⭐⭐⭐ |
-| **MATLAB** | Signal Processing, Optimization | ⭐⭐⭐⭐⭐ |
-| **Engineering Tools** | Simulink, LabVIEW, CAD | ⭐⭐⭐⭐ |
+| **MATLAB** | Machine Learning Toolbox, Deep Learning Toolbox | ⭐⭐⭐⭐⭐ |
+| **Engineering Tools** | ANSYS Fluent, OpenFOAM, TecPlot | ⭐⭐⭐⭐ |
 
 </div>
 
@@ -219,3 +189,5 @@ I'm always interested in:
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🚀**
 
 </div>
+ 
+```
