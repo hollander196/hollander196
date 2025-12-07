@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍🔬 Academic Researcher & ML Engineer
+# 👨‍🔬 Academic Researcher & Computational Scientist
 
 ### *Leveraging Machine Learning and AI to Solve Real-World Engineering Challenges*
 
