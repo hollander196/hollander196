@@ -38,22 +38,19 @@ Numerical Simulation    ██████████████████�
 
 ### Core Competencies
 
+**Engineering Applications**
+- ⚙️ Predictive Process Control Systems
+- 🔧 Optimisation Algorithms
+- 📐 Computational Modelling & Optimisation
+- 📊 Data Acquisition & Analysis
+- 🏗️ System Identification & Parameter Estimation
+
 **Machine Learning & AI**
 - 🧠 Deep Learning (CNNs, RNNs, Transformers, GANs)
 - 📊 Statistical Learning & Predictive Modeling
 - 🎯 Supervised & Unsupervised Learning
 - 🔄 Reinforcement Learning
 - 📈 Time Series Analysis & Forecasting
-- 🖼️ Computer Vision & Image Processing
-- 📝 Natural Language Processing
-
-**Engineering Applications**
-- ⚙️ Signal Processing & Control Systems
-- 🔧 Optimization Algorithms
-- 📐 Computational Modeling & Simulation
-- 📊 Data Acquisition & Analysis
-- 🏗️ System Identification & Parameter Estimation
-- 🔍 Fault Detection & Diagnostics
 
 **Development Stack**
 - **Python**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Matplotlib, Seaborn
