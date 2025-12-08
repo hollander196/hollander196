@@ -70,22 +70,21 @@ Numerical Simulation    ██████████████████�
 <tr>
 <td width="50%">
 
+### 🏭 Engineering Applications
+- Mathematical modelling and optimisa
+- Numerical simulationa and optimisation of stirred tank mixing process
+- Community health monitoring using wastewater-based epidemiology
+- Sensor fusion and IoT analytics in process control systems
+- Automation and optimisation of process control systems
+</td>
+<td width="50%">
+
 ### 🤖 Machine Learning Applications
 - Predictive engineering models
 - Anomaly detection in industrial processes
 - Pattern recognition in complex datasets
 - Automated feature engineering
 - Model interpretability & explainability
-
-</td>
-<td width="50%">
-
-### 🏭 Engineering Solutions
-- Mathematical modelling and optimisation of membrane systems
-- Numerical simulationa and optimisation of stirred tank mixing process
-- Community health monitoring using wastewater-based epidemiology
-- Sensor fusion and IoT analytics in process control systems
-- Automation and optimisation of process control systems
 
 </td>
 </tr>
@@ -113,20 +112,6 @@ Numerical Simulation    ██████████████████�
 
 > **Note**: My research projects are in private repositories or under review for publication. Feel free to reach out for collaborations or inquiries about specific work.
 
-<!-- 
-Example project structure - uncomment and customize when ready:
-
-#### 📌 [Project Name](link-to-repo)
-**Description**: Brief description of the project and its impact
-- **Technologies**: Python, TensorFlow, MATLAB
-- **Key Features**: 
-  - Feature 1
-  - Feature 2
-- **Results**: Achieved X% improvement/accuracy
-
--->
-
----
 
 ## 📚 Publications & Academic Contributions
 
