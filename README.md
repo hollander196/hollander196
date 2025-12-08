@@ -22,7 +22,7 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 ## 🛠️ Technical Expertise
 
 ### Programming & Tools
-```
+---
 Python    ████████████████████░  95%
 MATLAB    ███████████████████░░  90%
 Deep Learning ██████████████████░░░  85%
