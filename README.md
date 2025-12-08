@@ -19,8 +19,6 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 - 🎯 **Mission**: Transforming engineering challenges into opportunities through intelligent systems
 - 📚 **Approach**: Rigorous academic methodology combined with practical implementation
 
----
-
 ## 🛠️ Technical Expertise
 
 ### Programming & Tools
