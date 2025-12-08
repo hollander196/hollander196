@@ -21,15 +21,6 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 
 ## 🛠️ Technical Expertise
 
-### Programming & Tools
-
-Python    ████████████████████░  95%
-MATLAB    ███████████████████░░  90%
-Deep Learning ██████████████████░░░  85%
-Data Science  ████████████████████░  95%
-Numerical Simulation    ███████████████████░░  95%
----
-
 ### Core Competencies
 
 **Engineering Applications**
@@ -52,8 +43,6 @@ Numerical Simulation    ██████████████████�
 - **Tools**: Jupyter Notebook, MATLAB Livescript, Git, Docker, Linux, HPC Clusters
 - **Databases**: SQL, MongoDB
 - **Cloud**: AWS, Google Cloud Platform
-
----
 
 ## 🔬 Research Areas
 
@@ -121,7 +110,6 @@ Numerical Simulation    ██████████████████�
 
 > *"The best way to predict the future is to invent it, and the best way to invent it is through rigorous research, innovative thinking, and practical application of machine learning and artificial intelligence to solve real-world problems."*
 
----
 
 <div align="center">
 
@@ -138,7 +126,6 @@ Numerical Simulation    ██████████████████�
 
 </div>
 
----
 
 <div align="center">
   
