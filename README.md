@@ -101,8 +101,6 @@ Numerical Simulation    ██████████████████�
 
 > *Publications list available upon request or see my academic profile*
 
----
-
 ## 🎯 Current Focus
 
 - 📄 Mathematical modelling and optimisation of fouling problems in membrane bioreactor
