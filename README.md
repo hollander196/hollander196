@@ -1,6 +1,6 @@
 <div align="center">
 
-### *Leveraging Machine Learning and AI to Solve Real-World Engineering Challenges*
+### *Leveraging Machine Learning and AI to Solve Real-World Engineering Problems*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
