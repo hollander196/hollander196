@@ -85,22 +85,6 @@ Numerical Simulation    ██████████████████�
 </tr>
 </table>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hollander196&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hollander196&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hollander196&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔥 Highlighted Work
