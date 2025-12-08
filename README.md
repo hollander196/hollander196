@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 🎓 About Me
 
 I am a passionate researcher and academic focused on developing innovative **Machine Learning** and **Artificial Intelligence** solutions to tackle complex engineering problems. My work bridges the gap between theoretical research and practical applications, utilizing advanced computational methods to drive insights and solutions.
