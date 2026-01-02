@@ -51,15 +51,15 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 <td width="50%">
 
 ### 🏭 Engineering Applications
-- Mathematical modelling and optimisa
-- Numerical simulationa and optimisation of stirred tank mixing process
-- Community health monitoring using wastewater-based epidemiology
+- Mathematical modelling and optimisation
+- Numerical simulationa and optimisation of stirred tank operations
+- Community health surveillance using wastewater-based epidemiology
 - Sensor fusion and IoT analytics in process control systems
 - Automation and optimisation of process control systems
 </td>
 <td width="50%">
 
-### 🤖 Machine Learning Applications
+### 🤖 Industrial Applications
 - Predictive engineering models
 - Anomaly detection in industrial processes
 - Pattern recognition in complex datasets
@@ -89,9 +89,9 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 ## 🎯 Current Focus
 
 - 📄 Mathematical modelling and optimisation of fouling problems in membrane bioreactor
-- 🎓 Hybrid ML models combining physics-based and data-driven approaches
-- 🏆 Academic research in ML for engineering applications
-- 👥 Open-source ML tools and frameworks in engineering applications
+- 🎓 Hybrid ML models combining mechanistic physics-based and data-driven approaches
+- 🏆 Applied research in Machine Learning for Engineering applications
+- 👥 Open-source Machine Learning tools and frameworks in Engineering applications
 
  ## 🎯 I'm always interested in:
 
