@@ -14,7 +14,7 @@
 
 I am a passionate researcher and academic focused on developing innovative **Machine Learning** and **Artificial Intelligence** solutions to tackle complex engineering problems. My work bridges the gap between theoretical research and practical applications, utilizing advanced computational methods to drive insights and solutions.
 
-- 🔬 **Research Focus**: Applied ML/AI in Engineering, Computational Modeling, Data-Driven Solutions
+- 🔬 **Research Focus**: Applied ML/AI in Engineering, Computational Modelling, and Data-Driven Solutions
 - 💻 **Primary Tools**: Python, MATLAB, Deep Learning Frameworks
 - 🎯 **Mission**: Transforming engineering challenges into opportunities through intelligent systems
 - 📚 **Approach**: Rigorous academic methodology combined with practical implementation
