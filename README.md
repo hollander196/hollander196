@@ -10,6 +10,18 @@
 
 </div>
 
+## Table of Contents
+
+- [About Me](#about-me)
+- [Technical Expertise](#technical-expertise)
+- [Research Areas](#research-areas)
+- [Featured Projects](#featured-projects)
+- [Publications and Academic Contributions](#publications-and-academic-contributions)
+- [Current Focus](#current-focus)
+- [I'm Always Interested In](#im-always-interested-in)
+- [How to Reach Me](#how-to-reach-me)
+- [Research Philosophy](#research-philosophy)
+
 ## 🎓 About Me
 
 I am a passionate researcher and academic focused on developing innovative **Machine Learning** and **Artificial Intelligence** solutions to tackle complex engineering problems. My work bridges the gap between theoretical research and practical applications, utilizing advanced computational methods to drive insights and solutions.
@@ -134,3 +146,4 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🚀**
 
 </div>
+
