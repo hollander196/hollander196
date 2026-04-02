@@ -22,6 +22,8 @@
 - [How to Reach Me](#how-to-reach-me)
 - [Research Philosophy](#research-philosophy)
 
+<a id="about-me"></a>
+
 ## 🎓 About Me
 
 I am a passionate researcher and academic focused on developing innovative **Machine Learning** and **Artificial Intelligence** solutions to tackle complex engineering problems. My work bridges the gap between theoretical research and practical applications, utilizing advanced computational methods to drive insights and solutions.
@@ -30,6 +32,8 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 - 💻 **Primary Tools**: Python, MATLAB, Deep Learning Frameworks
 - 🎯 **Mission**: Transforming engineering challenges into opportunities through intelligent systems
 - 📚 **Approach**: Rigorous academic methodology combined with practical implementation
+
+<a id="technical-expertise"></a>
 
 ## 🛠️ Technical Expertise
 
@@ -55,6 +59,8 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 - **Tools**: Jupyter Notebook, MATLAB Livescript, Git, Docker, Linux, HPC Clusters
 - **Databases**: SQL, MongoDB
 - **Cloud**: AWS, Google Cloud Platform
+
+<a id="research-areas"></a>
 
 ## 🔬 Research Areas
 
@@ -82,12 +88,16 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 </tr>
 </table>
 
+<a id="featured-projects"></a>
+
 ## 🚀 Featured Projects
 
 ### 🔥 Highlighted Work
 
 > **Note**: My research projects are in private repositories or under review for publication. Feel free to reach out for collaborations or inquiries about specific work.
 
+
+<a id="publications-and-academic-contributions"></a>
 
 ## 📚 Publications & Academic Contributions
 
@@ -98,6 +108,8 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 
 > *Publications list available upon request or see my academic profile*
 
+<a id="current-focus"></a>
+
 ## 🎯 Current Focus
 
 - 📄 Mathematical modelling and optimisation of fouling problems in membrane bioreactor
@@ -105,18 +117,24 @@ I am a passionate researcher and academic focused on developing innovative **Mac
 - 🏆 Applied research in Machine Learning for Engineering applications
 - 👥 Open-source Machine Learning tools and frameworks in Engineering applications
 
- ## 🎯 I'm always interested in:
+<a id="im-always-interested-in"></a>
+
+## 🎯 I'm always interested in:
 
 - 📄 **Research Collaboration**: Interdisciplinary projects combining ML/AI with engineering  simulations
 - 🎓 **Consulting**: Applying ML/AI and numerical simulations to solve practical engineering problems
 - 👨‍🏫 **Mentoring**: Guiding students and early researchers in ML/AI and engineering simulations
 - 🏆 **Knowledge Sharing**: Discussions on latest trends in ML/AI and engineering applications
 
+<a id="how-to-reach-me"></a>
+
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.hollander196@yahoo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hollander196)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=2ELWvsAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+<a id="research-philosophy"></a>
 
 ## 💭 Research Philosophy
 
